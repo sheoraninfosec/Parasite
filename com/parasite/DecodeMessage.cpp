@@ -1,7 +1,7 @@
 /**
 * Developer: Jigesh Sheoran (UPES, Dehradun) 
 * Date: 23.July.2025
-Bitch
+Don't be a Bitch
 **/
 
 #include <stdio.h>
